@@ -1,0 +1,174 @@
+{
+  "shop": [
+    {
+      "id": 1,
+      "name": "Sonic the Hedgehog",
+      "image": "/img/sonic mobile walpaper/22 (6).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/22 (17).png",
+        "/img/sonic mobile walpaper/22 (6).jpg",
+        "/img/sonic mobile walpaper/22 (3).jpg"
+      ],
+      "price": 2500,
+      "oldPrice": 5999,
+      "discount": "64% OFF"
+    },
+    {
+      "id": 2,
+      "name": "Knuckles the Echidna",
+      "image": "/img/sonic mobile walpaper/22 (16).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/22 (8).png",
+        "/img/sonic mobile walpaper/22 (16).jpg",
+        "/img/sonic mobile walpaper/22 (15).jpg"
+      ],
+      "price": 2000,
+      "oldPrice": 5999,
+      "discount": "60% OFF"
+    },
+    {
+      "id": 3,
+      "name": "Amy Rose",
+      "image": "/img/sonic mobile walpaper/23 (9).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/22 (7).jpg",
+        "/img/sonic mobile walpaper/23 (9).jpg",
+        "/img/sonic mobile walpaper/22 (10).jpg"
+      ],
+      "price": 1800,
+      "oldPrice": 5999,
+      "discount": "61% OFF"
+    },
+    {
+      "id": 4,
+      "name": "Shadow the Hedgehog",
+      "image": "/img/sonic mobile walpaper/22 (12).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/22 (10).png",
+        "/img/sonic mobile walpaper/22 (12).jpg",
+        "/img/sonic mobile walpaper/22 (11).jpg"
+      ],
+      "price": 2200,
+      "oldPrice": 5999,
+      "discount": "62% OFF"
+    },
+    {
+      "id": 5,
+      "name": "Super Sonic",
+      "image": "/img/sonic mobile walpaper/22 (5).png",
+      "picture": [
+        "/img/sonic mobile walpaper/22 (5).png",
+        "/img/sonic mobile walpaper/22 (14).jpg",
+        "/img/sonic mobile walpaper/22 (13).jpg"
+      ],
+      "price": 2000,
+      "oldPrice": 5999,
+      "discount": "63% OFF"
+    },
+    {
+      "id": 6,
+      "name": "Silver the Hedgehog",
+      "image": "/img/sonic mobile walpaper/2 (1).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/1 (2).png",
+        "/img/sonic mobile walpaper/2 (1).jpg",
+        "/img/sonic mobile walpaper/2 (18).jpg"
+      ],
+      "price": 2000,
+      "oldPrice": 5999,
+      "discount": "61% OFF"
+    },
+    {
+      "id": 7,
+      "name": "Mephiles the Dark",
+      "image": "/img/sonic mobile walpaper/2 (14).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/1 (11).png",
+        "/img/sonic mobile walpaper/2 (14).jpg",
+        "/img/sonic mobile walpaper/2 (15).jpg"
+      ],
+      "price": 1800,
+      "oldPrice": 5999,
+      "discount": "60% OFF"
+    },
+    {
+      "id": 8,
+      "name": "Super Shadow",
+      "image": "/img/sonic mobile walpaper/2 (4).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/1 (5).png",
+        "/img/sonic mobile walpaper/2 (4).jpg",
+        "/img/sonic mobile walpaper/2 (5).jpg"
+      ],
+      "price": 3000,
+      "oldPrice": 5999,
+      "discount": "61% OFF"
+    },
+    {
+      "id": 9,
+      "name": "Tails",
+      "image": "/img/sonic mobile walpaper/2 (6).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/1 (8).png",
+        "/img/sonic mobile walpaper/2 (6).jpg",
+        "/img/sonic mobile walpaper/2 (7).jpg"
+      ],
+      "price": 2000,
+      "oldPrice": 5999,
+      "discount": "62% OFF"
+    },
+    {
+      "id": 10,
+      "name": "Baby Knuckles the Echidna",
+      "image": "/img/sonic mobile walpaper/2 (8).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/1 (7).png",
+        "/img/sonic mobile walpaper/2 (8).jpg",
+        "/img/sonic mobile walpaper/2 (9).jpg"
+      ],
+      "price": 1500,
+      "oldPrice": 5999,
+      "discount": "61% OFF"
+    },
+    {
+      "id": 11,
+      "name": "Tikal the Echidna",
+      "image": "/img/sonic mobile walpaper/2 (10).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/1 (9).png",
+        "/img/sonic mobile walpaper/2 (10).jpg",
+        "/img/sonic mobile walpaper/2 (11).jpg"
+      ],
+      "price": 1800,
+      "oldPrice": 5999,
+      "discount": "62% OFF"
+    },
+    {
+      "id": 12,
+      "name": "Baby Sonic the Hedgehog",
+      "image": "/img/sonic mobile walpaper/2 (12).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/1 (10).png",
+        "/img/sonic mobile walpaper/2 (12).jpg",
+        "/img/sonic mobile walpaper/2 (13).jpg"
+      ],
+      "price": 1500,
+      "oldPrice": 5999,
+      "discount": "62% OFF"
+    },
+    {
+      "id": 13,
+      "name": " Doctor eggman",
+      "image": "/img/sonic mobile walpaper/2 (3).jpg",
+      "picture": [
+        "/img/sonic mobile walpaper/1 (4).png",
+        "/img/sonic mobile walpaper/2 (3).jpg",
+        "/img/sonic mobile walpaper/2 (2).jpg"
+      ],
+      "price": 2000,
+      "oldPrice": 5999,
+      "discount": "61% OFF"
+    }
+    
+  ]
+}
