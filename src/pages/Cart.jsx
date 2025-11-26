@@ -107,7 +107,7 @@ const Cart = () => {
                   />
                   <input
                     type="text"
-                    placeholder="City"
+                    placeholder="Full Address"
                     value={address.city}
                     onChange={(e) => setAddress({ ...address, city: e.target.value })}
                     required
@@ -119,6 +119,7 @@ const Cart = () => {
                     onChange={(e) => setAddress({ ...address, pincode: e.target.value })}
                     required
                   />
+                  
                   <button type="submit" className="checkout-btn">
                     Save & Continue to Payment
                   </button>
