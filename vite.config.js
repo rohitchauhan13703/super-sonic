@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
+// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/super-sonic/', // 🔹 Yaha aapke GitHub repo ka exact name
+  base: '/super-sonic/', // 🔹 Yaha aapke GitHub repo ka exact name dalna hai
 });
